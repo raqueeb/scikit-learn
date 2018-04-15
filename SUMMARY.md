@@ -2,5 +2,5 @@
 
 * [পাইথনে মেশিন লার্নিং](README.md)
   * [কিভাবে শিখবো?](intro/ml.md)
-* [First Chapter](chapter1.md)
+* [আরেকটা চ্যাপ্টার](chapter1.md)
 
