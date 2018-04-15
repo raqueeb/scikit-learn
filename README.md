@@ -1,13 +1,5 @@
 # 
 
-
-
-
-
-
-
-
-
 # হাতেকলমে মেশিন লার্নিং
 
 ---
@@ -18,17 +10,19 @@
 
 ![](/assets/1.jpg)
 
-#### হাতেকলমে মেশিন লার্নিং
+### হাতেকলমে মেশিন লার্নিং
 
-#### পরিচিতি ও প্রজেক্ট টাইটানিক
+##### পরিচিতি ও প্রজেক্ট টাইটানিক
 
-[অনলাইন](https://raqueeb.gitbooks.io/mlbook-titanic/content/) এবং [রকমারি](https://www.rokomari.com/book/160337/)
-
-
-
-
+[অনলাইন](https://raqueeb.gitbooks.io/mlbook-titanic/) এবং [রকমারি](https://www.rokomari.com/book/160337/)
 
 ---
 
+এবং
 
+### হাতেকলমে ডীপ লার্নিং
+
+##### হাতের লেখা চিনতে প্রজেক্ট
+
+[অনলাইন](https://raqueeb.gitbooks.io/deep-learning/)
 
