@@ -1,4 +1,6 @@
 # আরেকটা চ্যাপ্টার
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+ঠিক ধরেছেন। এখনো লিখছি। 
+
+পাশাপাশি আরেকটা বই দেখতে পারেন এখানে। [অডিওর অজানা জগৎ নিয়ে](https://raqueeb.gitbook.io/audiophile/)।
 
