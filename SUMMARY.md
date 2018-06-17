@@ -5,5 +5,6 @@
 * [মেশিন লার্নিং কী?](what-is-ml.md)
 * [টেক্সটবুকের মেশিন লার্নিং](textbook-definition.md)
 * [শেখার পেছনের দর্শন](philosophy-backed-learning.md)
+* [স্ট্যান্ডিং অন দ্য সোল্ডারস অফ জায়ান্টস](undefined.md)
 * [আরেকটা চ্যাপ্টার](undefined-2.md)
 
