@@ -2,7 +2,7 @@
 
 * [মেশিন লার্নিং](README.md)
 * [মেশিন লার্নিং কী?](what-is-ml.md)
-  * আরো বলবেন কী?
+  * [আরো বলবেন কী?](intro/more-ml.md)
 * [কিভাবে শিখবো?](how-to-start.md)
 * [টেক্সটবুকের মেশিন লার্নিং](textbook-definition.md)
 * [শেখার পেছনের দর্শন](philosophy-backed-learning.md)
