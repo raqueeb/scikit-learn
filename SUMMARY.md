@@ -4,6 +4,7 @@
 
 ## শেখার পেছনের দর্শন
 
+* [কেন বইটা লিখতে চাইলাম?](why-this-book.md)
 * [কিভাবে শিখবো?](how-to-start.md)
 * [টেক্সটবুকের মেশিন লার্নিং](textbook-definition.md)
 * [শেখার পেছনের দর্শন](philosophy-backed-learning.md)
