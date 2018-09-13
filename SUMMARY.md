@@ -11,7 +11,7 @@
 
 ## মেশিন লার্নিং কী?
 
-* [মেশিন লার্নিং কী?](what-is-ml-1/what-is-ml.md)
+* [মেশিন লার্নিং জিনিসটা কী?](what-is-ml-1/what-is-ml.md)
 * [টেক্সটবুকের মেশিন লার্নিং](what-is-ml-1/textbook-definition.md)
 * [অংকে মেশিন লার্নিং, ১](what-is-ml-1/ml-math1.md)
 * [অংকে মেশিন লার্নিং, ২](what-is-ml-1/mi-math2.md)
