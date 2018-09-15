@@ -16,8 +16,12 @@
 * [অংকে মেশিন লার্নিং, ১](what-is-ml-1/ml-math1.md)
 * [অংকে মেশিন লার্নিং, ২](what-is-ml-1/mi-math2.md)
 * [অংকে মেশিন লার্নিং, ৩](what-is-ml-1/ml-math3.md)
-* [এক প্যাকেজে সবকিছু](what-is-ml-1/one-package.md)
-* [সাইকিট-লার্ন](what-is-ml-1/undefined-1.md)
+
+## আমাদের দরকারি কিছু টুলস
+
+* [এক প্যাকেজে সবকিছু](test-group/one-package.md)
+* [সাইকিট-লার্ন](test-group/undefined-1.md)
+* [test page](test-group/test-page.md)
 
 ## আইরিস ডাটাসেট
 
@@ -25,8 +29,4 @@
 * [আরেকটা চ্যাপ্টার](iris-dataset/undefined-2.md)
 
 ## পরিশিষ্ট
-
-## test group
-
-* [test page](test-group/test-page.md)
 
