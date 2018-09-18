@@ -22,7 +22,7 @@
 
 * [এক প্যাকেজে সবকিছু](test-group/one-package.md)
 * [সাইকিট-লার্ন](test-group/undefined-1.md)
-* [test page](test-group/test-page.md)
+* [নামপাই](test-group/test-page.md)
 
 ## আইরিস ডাটাসেট
 
