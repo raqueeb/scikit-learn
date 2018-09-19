@@ -27,6 +27,7 @@
 ## আইরিস ডাটাসেট
 
 * [কেন এই ডাটাসেট?](iris-dataset/why-this.md)
+* [সাইকিট-লার্নে আইরিস ডাটাসেট](iris-dataset/undefined.md)
 * [আরেকটা চ্যাপ্টার](iris-dataset/undefined-2.md)
 
 ## পরিশিষ্ট
