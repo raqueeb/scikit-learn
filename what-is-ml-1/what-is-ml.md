@@ -1,5 +1,7 @@
 # মেশিন লার্নিং জিনিসটা কী?
 
+> Being an entrepreneur is like eating glass and staring into the abyss of death.  -- Elon Musk
+
 আচ্ছা, মেশিন লার্নিং কি?
 
 উত্তর দেবার আগে একটা সমস্যা নিয়ে আলাপ করি।
