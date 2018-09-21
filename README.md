@@ -8,6 +8,10 @@ description: >-
 
 ## পাইথন আর সাইকিট লার্ন
 
+> It’s none of their business that you have to learn to write. Let them think you were born that way.
+>
+> --  Ernest Hemingway
+
 আগের বই
 
 ![&#x9AE;&#x9C7;&#x9B6;&#x9BF;&#x9A8; &#x9B2;&#x9BE;&#x9B0;&#x9CD;&#x9A8;&#x9BF;&#x982; &#x9AC;&#x987; ](.gitbook/assets/1.jpg)
