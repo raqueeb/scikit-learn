@@ -24,6 +24,7 @@
 * [সাইকিট-লার্ন](test-group/undefined-1.md)
 * [নামপাই](test-group/test-page.md)
 * [ডাটা সাইন্সের পাইথন](test-group/python-data-science.md)
+* [জুপিটার নোটবুক](test-group/jupyter.md)
 
 ## আইরিস ডাটাসেট
 
