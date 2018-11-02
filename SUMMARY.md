@@ -34,6 +34,7 @@
 * [এক্সপ্লোরেটোরি ডাটা অ্যানালাইসিস](iris-dataset/eda.md)
 * [আরেকটা চ্যাপ্টার](iris-dataset/undefined-2.md)
 * [মডেল ইভাল্যুয়েশন](iris-dataset/eveluation.md)
+* [সাইকিট-লার্ন 'এস্টিমেটর'](iris-dataset/estimator.md)
 
 ## পরিশিষ্ট
 
