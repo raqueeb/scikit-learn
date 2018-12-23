@@ -32,10 +32,11 @@
 * [সাইকিট-লার্নে আইরিস ডাটাসেট](iris-dataset/scikit-learn-iris.md)
 * [সাইকিট-লার্ন এর ডাটা লে-আউট, ডাটা হ্যান্ডলিং](iris-dataset/layout-sk.md)
 * [এক্সপ্লোরেটোরি ডাটা অ্যানালাইসিস](iris-dataset/eda.md)
-* [আরেকটা চ্যাপ্টার](iris-dataset/undefined-2.md)
 * [মডেল ইভাল্যুয়েশন](iris-dataset/eveluation.md)
 * [সাইকিট-লার্ন 'এস্টিমেটর'](iris-dataset/estimator.md)
 * [এস্টিমেটরের কাজের ধাপ](iris-dataset/undefined.md)
+* [মডেলের প্রেডিকশন](iris-dataset/prediction-making.md)
+* [আরেকটা চ্যাপ্টার](iris-dataset/undefined-2.md)
 
 ## পরিশিষ্ট
 
