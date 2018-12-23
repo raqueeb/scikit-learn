@@ -36,6 +36,6 @@
 * [সাইকিট-লার্ন 'এস্টিমেটর'](iris-dataset/estimator.md)
 * [এস্টিমেটরের কাজের ধাপ](iris-dataset/undefined.md)
 * [মডেলের প্রেডিকশন](iris-dataset/prediction-making.md)
-* [Untitled](iris-dataset/untitled.md)
+* [কোডে প্রথম মডেল](iris-dataset/first-model.md)
 * [আরেকটা চ্যাপ্টার](iris-dataset/undefined-2.md)
 
