@@ -28,14 +28,14 @@
 
 ## আইরিস ডাটাসেট
 
-* [কেন এই ডাটাসেট?](undefined-3/why-this.md)
-* [সাইকিট-লার্নে আইরিস ডাটাসেট](undefined-3/scikit-learn-iris.md)
-* [সাইকিট-লার্ন এর ডাটা লে-আউট, ডাটা হ্যান্ডলিং](undefined-3/layout-sk.md)
-* [এক্সপ্লোরেটোরি ডাটা অ্যানালাইসিস](undefined-3/eda.md)
-* [মডেল ইভাল্যুয়েশন](undefined-3/eveluation.md)
-* [সাইকিট-লার্ন 'এস্টিমেটর'](undefined-3/estimator.md)
-* [এস্টিমেটরের কাজের ধাপ](undefined-3/undefined.md)
-* [কোডে প্রথম মডেল](undefined-3/first-model.md)
-* [মডেলের প্রেডিকশন](undefined-3/prediction-making.md)
-* [আরেকটা চ্যাপ্টার](undefined-3/undefined-2.md)
+* [কেন এই ডাটাসেট?](iris-dataset/why-this.md)
+* [সাইকিট-লার্নে আইরিস ডাটাসেট](iris-dataset/scikit-learn-iris.md)
+* [সাইকিট-লার্ন এর ডাটা লে-আউট, ডাটা হ্যান্ডলিং](iris-dataset/layout-sk.md)
+* [এক্সপ্লোরেটোরি ডাটা অ্যানালাইসিস](iris-dataset/eda.md)
+* [মডেল ইভাল্যুয়েশন](iris-dataset/eveluation.md)
+* [সাইকিট-লার্ন 'এস্টিমেটর'](iris-dataset/estimator.md)
+* [এস্টিমেটরের কাজের ধাপ](iris-dataset/undefined.md)
+* [কোডে প্রথম মডেল](iris-dataset/first-model.md)
+* [মডেলের প্রেডিকশন](iris-dataset/prediction-making.md)
+* [আরেকটা চ্যাপ্টার](iris-dataset/undefined-2.md)
 
