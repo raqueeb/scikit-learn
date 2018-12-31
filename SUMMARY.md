@@ -4,10 +4,10 @@
 
 ## শেখার পেছনের দর্শন
 
-* [কেন বইটা লিখতে চাইলাম?](undefined/why-this-book.md)
-* [কিভাবে শিখবো?](undefined/how-to-start.md)
-* [শেখার পেছনের দর্শন](undefined/philosophy-backed-learning.md)
-* [স্ট্যান্ডিং অন দ্য সোল্ডারস অফ জায়ান্টস](undefined/standing.md)
+* [কেন বইটা লিখতে চাইলাম?](philosophy/why-this-book.md)
+* [কিভাবে শিখবো?](philosophy/how-to-start.md)
+* [শেখার পেছনের দর্শন](philosophy/philosophy-backed-learning.md)
+* [স্ট্যান্ডিং অন দ্য সোল্ডারস অফ জায়ান্টস](philosophy/standing.md)
 
 ## মেশিন লার্নিং কী?
 
