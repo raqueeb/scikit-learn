@@ -11,12 +11,12 @@
 
 ## মেশিন লার্নিং কী?
 
-* [মেশিন লার্নিং জিনিসটা কী?](undefined-1/what-is-ml.md)
-* [টেক্সটবুকের মেশিন লার্নিং](undefined-1/textbook-definition.md)
-* [অংকে মেশিন লার্নিং, ১](undefined-1/ml-math1.md)
-* [অংকে মেশিন লার্নিং, ২](undefined-1/mi-math2.md)
-* [অংকে মেশিন লার্নিং, ৩](undefined-1/ml-math3.md)
-* [শুরুটা কোথায়?](undefined-1/one-package.md)
+* [মেশিন লার্নিং জিনিসটা কী?](what-is-ml/what-is-ml.md)
+* [টেক্সটবুকের মেশিন লার্নিং](what-is-ml/textbook-definition.md)
+* [অংকে মেশিন লার্নিং, ১](what-is-ml/ml-math1.md)
+* [অংকে মেশিন লার্নিং, ২](what-is-ml/mi-math2.md)
+* [অংকে মেশিন লার্নিং, ৩](what-is-ml/ml-math3.md)
+* [শুরুটা কোথায়?](what-is-ml/one-package.md)
 
 ## আমাদের দরকারি কিছু টুলস
 
