@@ -20,11 +20,11 @@
 
 ## আমাদের দরকারি কিছু টুলস
 
-* [এক প্যাকেজে সবকিছু](undefined-2/one-package.md)
-* [সাইকিট-লার্ন](undefined-2/undefined-1.md)
-* [নামপাই](undefined-2/test-page.md)
-* [ডাটা সাইন্সের পাইথন](undefined-2/python-data-science.md)
-* [জুপিটার নোটবুক](undefined-2/jupyter.md)
+* [এক প্যাকেজে সবকিছু](tools/one-package.md)
+* [সাইকিট-লার্ন](tools/undefined-1.md)
+* [নামপাই](tools/test-page.md)
+* [ডাটা সাইন্সের পাইথন](tools/python-data-science.md)
+* [জুপিটার নোটবুক](tools/jupyter.md)
 
 ## আইরিস ডাটাসেট
 
