@@ -35,7 +35,10 @@
 * [মডেল ইভাল্যুয়েশন](iris-dataset/eveluation.md)
 * [সাইকিট-লার্ন 'এস্টিমেটর'](iris-dataset/estimator.md)
 * [এস্টিমেটরের কাজের ধাপ](iris-dataset/undefined.md)
-* [কোডে প্রথম মডেল](iris-dataset/first-model.md)
-* [মডেলের প্রেডিকশন](iris-dataset/prediction-making.md)
-* [আরেকটা চ্যাপ্টার](iris-dataset/undefined-2.md)
+* [কোডে প্রথম মডেল এবং প্রেডিকশন](iris-dataset/first-model.md)
+
+## মডেলের কার্যকারীতা \(ইভ্যালুয়েশন\)
+
+* [আরেকটা চ্যাপ্টার](evaluation/undefined-2.md)
+* [Untitled](evaluation/untitled.md)
 
