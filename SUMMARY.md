@@ -32,13 +32,13 @@
 * [সাইকিট-লার্নে আইরিস ডাটাসেট](iris-dataset/scikit-learn-iris.md)
 * [সাইকিট-লার্ন এর ডাটা লে-আউট, ডাটা হ্যান্ডলিং](iris-dataset/layout-sk.md)
 * [এক্সপ্লোরেটোরি ডাটা অ্যানালাইসিস](iris-dataset/eda.md)
-* [মডেল ইভাল্যুয়েশন](iris-dataset/eveluation.md)
+* [মডেল ইভাল্যুয়েশনের ধারণা](iris-dataset/eveluation.md)
 * [সাইকিট-লার্ন 'এস্টিমেটর'](iris-dataset/estimator.md)
 * [এস্টিমেটরের কাজের ধাপ](iris-dataset/undefined.md)
 * [কোডে প্রথম মডেল এবং প্রেডিকশন](iris-dataset/first-model.md)
 
 ## মডেলের কার্যকারীতা \(ইভ্যালুয়েশন\)
 
+* [মডেলের কার্যকারীতা \(ইভ্যালুয়েশন\)](evaluation/eva1.md)
 * [আরেকটা চ্যাপ্টার](evaluation/undefined-2.md)
-* [Untitled](evaluation/untitled.md)
 
