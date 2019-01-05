@@ -1,2 +1,10 @@
 # ট্রেনিং টেস্ট ভাগ করে ইভাল্যুয়েশন
 
+নিচের লিংক ক্লিক করে পড়ুন, লেখা হয়েছে জুপিটার নোটবুকে।
+
+{% embed url="https://github.com/raqueeb/ml-python/blob/master/model-evaluation2.ipynb" %}
+
+অথবা, আগেরটা কাজ না করলে নিচের লিংক 
+
+{% embed url="https://nbviewer.jupyter.org/github/raqueeb/ml-python/blob/master/model-evaluation2.ipynb" %}
+
