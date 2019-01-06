@@ -16,7 +16,6 @@
 * [অংকে মেশিন লার্নিং, ১](what-is-ml/ml-math1.md)
 * [অংকে মেশিন লার্নিং, ২](what-is-ml/mi-math2.md)
 * [অংকে মেশিন লার্নিং, ৩](what-is-ml/ml-math3.md)
-* [শুরুটা কোথায়?](what-is-ml/one-package.md)
 
 ## আমাদের দরকারি কিছু টুলস
 
