@@ -24,6 +24,8 @@
 * [নামপাই](tools/test-page.md)
 * [ডাটা সাইন্সের পাইথন](tools/python-data-science.md)
 * [জুপিটার নোটবুক](tools/jupyter.md)
+* [সুপারভাইজড লার্নিং](tools/supervised.md)
+* [মডেলের জেনারেলাইজেশন, ওভার-ফিটিং এবং আন্ডার-ফিটিং](tools/general.md)
 
 ## আইরিস ডাটাসেট
 
@@ -38,7 +40,7 @@
 
 ## মডেলের কার্যকারীতা \(ইভ্যালুয়েশন\)
 
-* [মডেলের কার্যকারীতা \(ইভ্যালুয়েশন\)](evaluation/eva1.md)
+* [ট্রেনিং ডেটার ওপর ইভ্যালুয়েশন](evaluation/eva1.md)
 * [ট্রেনিং টেস্ট ভাগ করে ইভাল্যুয়েশন](evaluation/training-test-split.md)
 * [আরেকটা চ্যাপ্টার](evaluation/undefined-2.md)
 
