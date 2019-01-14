@@ -20,7 +20,7 @@
 ## আমাদের দরকারি কিছু টুলস
 
 * [এক প্যাকেজে সবকিছু](tools/one-package.md)
-* [সাইকিট-লার্ন](tools/undefined-1.md)
+* [সাইকিট-লার্ন](tools/scikit-learn.md)
 * [নামপাই](tools/test-page.md)
 * [ডাটা সাইন্সের পাইথন](tools/python-data-science.md)
 * [জুপিটার নোটবুক](tools/jupyter.md)
