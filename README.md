@@ -8,13 +8,13 @@
 
 আগের বই
 
-![&#x9AE;&#x9C7;&#x9B6;&#x9BF;&#x9A8; &#x9B2;&#x9BE;&#x9B0;&#x9CD;&#x9A8;&#x9BF;&#x982; &#x9AC;&#x987; ](.gitbook/assets/1.jpg)
+![&#x9A6;&#x9CD;&#x9AC;&#x9BF;&#x9A4;&#x9C0;&#x9DF; &#x9B8;&#x982;&#x9B8;&#x9CD;&#x995;&#x9B0;&#x9A3; \(&#x9AE;&#x9CD;&#x9AF;&#x9BE;&#x99C;&#x9C7;&#x9A8;&#x9CD;&#x99F;&#x9BE; &#x9B0;&#x999;\)](.gitbook/assets/ml.14.png)
 
 ### হাতেকলমে মেশিন লার্নিং
 
 **পরিচিতি ও প্রজেক্ট টাইটানিক**
 
-[অনলাইন](https://raqueeb.gitbooks.io/mlbook-titanic/) এবং [রকমারি](https://www.rokomari.com/book/160337/)
+[অনলাইন](https://raqueeb.gitbooks.io/mlbook-titanic/) এবং [রকমারি](https://rokomari.com/book/174186)
 
 এবং 
 
