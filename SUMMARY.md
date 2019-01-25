@@ -1,6 +1,7 @@
 # Table of contents
 
 * [মেশিন লার্নিং](README.md)
+* [উৎসর্গ](undefined.md)
 
 ## শেখার পেছনের দর্শন
 
