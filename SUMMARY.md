@@ -15,7 +15,7 @@
 * [টেক্সটবুকের মেশিন লার্নিং](what-is-ml/textbook-definition.md)
 * [অংকে মেশিন লার্নিং, ১](what-is-ml/ml-math1.md)
 * [অংকে মেশিন লার্নিং, ২](what-is-ml/mi-math2.md)
-* [অংকে মেশিন লার্নিং, ৩](what-is-ml/ml-math3.md)
+* [অংকে মেশিন লার্নিং, ৩ লিনিয়ার রিগ্রেশন](what-is-ml/ml-math3.md)
 
 ## আমাদের দরকারি কিছু টুলস
 
