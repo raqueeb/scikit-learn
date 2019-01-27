@@ -24,7 +24,7 @@
 * [এক প্যাকেজে সবকিছু](tools/one-package.md)
 * [সাইকিট-লার্ন](tools/scikit-learn.md)
 * [নামপাই](tools/test-page.md)
-* [ডাটা সাইন্সের পাইথন](tools/python-data-science.md)
+* [ডেটা সাইন্সের পাইথন](tools/python-data-science.md)
 * [জুপিটার নোটবুক](tools/jupyter.md)
 * [সুপারভাইজড লার্নিং](tools/supervised.md)
 * [মডেলের জেনারেলাইজেশন, ওভার-ফিটিং এবং আন্ডার-ফিটিং](tools/general.md)
