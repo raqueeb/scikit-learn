@@ -55,12 +55,12 @@ tel['rafiq']
 ৩. ডিকশনারি লুপিং করলে কেমন হয়?  items\(\) মেথড ব্যবহার করে?
 
 ```text
-knights = {'gallahad': 'the pure', 'robin': 'the brave'}
-for k, v in knights.items():
+mlbooks = {'data science from scratch': 'joel grus', 'python data science hadnbook': 'jake vanderplas'}
+for k, v in mlbooks.items():
    print(k, v)
 আউটপুট 
-gallahad the pure
-robin the brave
+data science from scratch joel grus
+python data science hadnbook jake vanderplas
 ```
 
 for loops অথবা if/else কন্ডিশনাল এক্সপ্রেশন এবং কন্ডিশনাল ব্লক 
