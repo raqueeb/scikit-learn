@@ -37,7 +37,7 @@
 * [এক্সপ্লোরেটোরি ডাটা অ্যানালাইসিস](iris-dataset/eda.md)
 * [মডেল ইভাল্যুয়েশনের ধারণা](iris-dataset/eveluation.md)
 * [সাইকিট-লার্ন 'এস্টিমেটর'](iris-dataset/estimator.md)
-* [এস্টিমেটরের কাজের ধাপ](iris-dataset/undefined.md)
+* [এস্টিমেটরের কাজের ধাপ](iris-dataset/estimator-1.md)
 * [কোডে প্রথম মডেল এবং প্রেডিকশন](iris-dataset/first-model.md)
 
 ## মডেলের কার্যকারীতা \(ইভ্যালুয়েশন\)
