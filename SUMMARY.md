@@ -23,6 +23,7 @@
 
 * [এক প্যাকেজে সবকিছু](tools/one-package.md)
 * [সাইকিট-লার্ন](tools/scikit-learn.md)
+* [পান্ডাজ](tools/undefined.md)
 * [নামপাই](tools/test-page.md)
 * [ডেটা সাইন্সের পাইথন](tools/python-data-science.md)
 * [জুপিটার নোটবুক](tools/jupyter.md)
