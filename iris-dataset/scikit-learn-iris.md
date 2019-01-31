@@ -1,5 +1,9 @@
 # সাইকিট-লার্নে আইরিস ডাটাসেট
 
+> Information is the oil of the 21st century, and analytics is the combustion engine. 
+>
+> – Peter Sondergaard
+
 আমরা কি কি করবো?
 
 {% hint style="info" %}
