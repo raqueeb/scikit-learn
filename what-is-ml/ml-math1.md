@@ -1,5 +1,9 @@
 # অংকে মেশিন লার্নিং, ১
 
+> The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore, all progress depends on the unreasonable man.
+>
+> -- George Bernard Shaw
+
 ছবি আর অংকে ডাইভ দেবার আগে আমাদের ছোটবেলার একটা গল্প বলি। গল্পটা সবার জন্য প্রযোজ্য। শুরুতে আমার নাম দিয়ে দিচ্ছি। নিজ দায়িত্বে নিজের নাম দিয়ে পড়ে নেবেন।
 
 {% hint style="info" %}
