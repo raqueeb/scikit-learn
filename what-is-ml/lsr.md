@@ -1,4 +1,4 @@
-# অ্যাক্যুরেসি, লিস্ট স্কোয়ার রিগ্রেশন
+# অ্যাক্যুরেসি, লিস্ট স্কয়ার রিগ্রেশন
 
 > The process of learning from data to find a solution 00:29 to a question is machine learning.
 >
