@@ -48,5 +48,6 @@
 * [ট্রেনিং ডেটার ওপর ইভ্যালুয়েশন](evaluation/eva1.md)
 * [ট্রেনিং টেস্ট ভাগ করে ইভাল্যুয়েশন](evaluation/training-test-split.md)
 * [নেইবারের সংখ্যা কতো হলে মডেলের অ্যাক্যুরেসি ভালো?](evaluation/knn-number.md)
+* [ক্রস ভ্যালিডেশনের প্যারামিটারের টিউনিং, মডেল সিলেকশন](evaluation/cv.md)
 * [আরেকটা চ্যাপ্টার](evaluation/undefined-2.md)
 
