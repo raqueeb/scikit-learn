@@ -49,9 +49,9 @@
 * [ট্রেনিং টেস্ট ভাগ করে ইভাল্যুয়েশন](evaluation/training-test-split.md)
 * [নেইবারের সংখ্যা কতো হলে মডেলের অ্যাক্যুরেসি ভালো?](evaluation/knn-number.md)
 * [ক্রস ভ্যালিডেশনের প্যারামিটারের টিউনিং, মডেল সিলেকশন](evaluation/cv.md)
-* [আরেকটা চ্যাপ্টার](evaluation/undefined-2.md)
 
 ## মেশিন লার্নিং ভবিষ্যৎ ধারণা
 
 * [কী করবো সামনে?](undefined/future-read.md)
+* [আরেকটা চ্যাপ্টার](undefined/undefined-2.md)
 
