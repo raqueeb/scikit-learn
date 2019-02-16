@@ -54,6 +54,6 @@
 
 ## মেশিন লার্নিং ভবিষ্যৎ ধারণা
 
-* [কী করবো সামনে?](undefined/future-read.md)
-* [পরবর্তী সাহায্য, লেখকের সাথে যোগাযোগ](undefined/undefined-2.md)
+* [কী করবো সামনে?](future/future-read.md)
+* [পরবর্তী সাহায্য, লেখকের সাথে যোগাযোগ](future/undefined-2.md)
 
