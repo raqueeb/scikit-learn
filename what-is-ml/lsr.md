@@ -1,6 +1,6 @@
 # অ্যাক্যুরেসি, লিস্ট স্কয়ার রিগ্রেশন
 
-> The process of learning from data to find a solution 00:29 to a question is machine learning.
+> The process of learning from data to find a solution to a question is machine learning.
 >
 > -- Siraj Raval
 
@@ -60,5 +60,21 @@ Sum_of_all => {62.4+23.2+0+16.8+89.6} = 192
 = { -2**2, -1**2, 0**2, 1**2, 2**2 }
 = { 4, 1, 0, 1, 4 }
 = 10
+```
+
+এখন দুটো অংশই পেয়ে গেলাম। দুটোকে কানেক্ট করার পালা। 
+
+```text
+m = Sum_of_all(x-xmean)*(y-ymean)/Sum_of(x-xmean)**2
+m = 192 / 10 = 19.2
+```
+
+m পেয়ে গেলাম। এখন y-ইন্টারসেপ্ট বের করার জন্য আমাদের ফর্মুলা কী? তার আগে b এর মান বের করি। ফর্মুলা হচ্ছে b = ymean — m \* xmean, ঠিক তো?
+
+```text
+# ফর্মুলা থেকে b = ymean — m * xmean
+b = 35.2 - 19.2*3
+b = 35.2 - 57.6
+b = -22.4
 ```
 
