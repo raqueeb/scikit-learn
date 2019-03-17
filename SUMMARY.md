@@ -24,7 +24,7 @@
 
 ## আমাদের দরকারি কিছু টুলস
 
-* [এক প্যাকেজে সবকিছু](tools/one-package.md)
+* [এক প্যাকেজে সবকিছু, জুপিটার এবং কোলাব নোটবুক](tools/one-package.md)
 * [সাইকিট-লার্ন](tools/scikit-learn.md)
 * [পান্ডাজ](tools/undefined.md)
 * [নামপাই](tools/test-page.md)
