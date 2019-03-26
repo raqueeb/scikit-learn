@@ -1,4 +1,6 @@
 # ছোট্ট একটা লিনিয়ার ক্লাসিফিকেশন
 
-যোগ হবে ১৭ তারিখে। 
+{% embed url="https://github.com/raqueeb/ml-python/blob/master/linear-clf-final.ipynb" %}
+
+
 
