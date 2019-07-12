@@ -1,6 +1,14 @@
+---
+description: পাইথন আর সাইকিট লার্ন
+---
+
 # মেশিন লার্নিং
 
-## পাইথন আর সাইকিট লার্ন
+## শূন্য থেকে পাইথন মেশিন লার্নিং : হাতেকলমে সাইকিট-লার্ন
+
+![&#x9B6;&#x9C2;&#x9A8;&#x9CD;&#x9AF; &#x9A5;&#x9C7;&#x995;&#x9C7; &#x9AA;&#x9BE;&#x987;&#x9A5;&#x9A8; &#x9AE;&#x9C7;&#x9B6;&#x9BF;&#x9A8; &#x9B2;&#x9BE;&#x9B0;&#x9CD;&#x9A8;&#x9BF;&#x982; : &#x9B9;&#x9BE;&#x9A4;&#x9C7;&#x995;&#x9B2;&#x9AE;&#x9C7; &#x9B8;&#x9BE;&#x987;&#x995;&#x9BF;&#x99F;-&#x9B2;&#x9BE;&#x9B0;&#x9CD;&#x9A8;](.gitbook/assets/shunno-thek-python-machine-learning-cover-final-05-07-2019.png)
+
+পাওয়া যাবে [https://www.rokomari.com/book/187277/](https://www.rokomari.com/book/187277/)
 
 > It’s none of their business that you have to learn to write. Let them think you were born that way.
 >
